@@ -1,1 +1,1 @@
-# reposit-rio-colaborativo-senai
+# repositorio-colaborativo-senai
